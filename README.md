@@ -1,6 +1,6 @@
 # whatsapp_ui
 
-A Flutter Whatsapp Bussness ui semi-clone
+A Flutter Whatsapp business ui semi-clone
 
 ## Getting Started
 
